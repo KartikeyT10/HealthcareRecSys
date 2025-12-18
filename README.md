@@ -115,9 +115,6 @@ Special thanks to:
 - The open-source community for providing valuable resources and libraries
 - All contributors who helped improve this system
 
-## Contact 📧
-
-Your Project Link: https://github.com/yourusername/Medicine-Recommendation-System
 
 ## 🔒 Privacy and Security
 
